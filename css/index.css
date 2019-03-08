@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+body{font-size:14px;line-height:22px;}
+a{font-size:14px;line-height:22px;}
+.list{margin:10px auto auto 10px};
+.list .add{margin-top:10px;}
+
+.listTable{border:1px solid #ccc;}
+.listTable th{padding:8px;background:#ccc;font-weight:bold;}
+.listTable td{padding:8px;}
+
+.player_box{position:absolute;width:83%;height:100%;top:0;left:0;border:1px solid #ccc;padding:10px;}
+.right_box{position:absolute;width:17%;height:100%;top:0;right:0;border:1px solid #ccc;padding:10px;}
+.right_box p{margin:2px;}
+
+.info{width:1000px;}
+.info .left{width:800px;float:left;}
+.info .right{width:190px;float:right;border:1px solid #ccc;}
